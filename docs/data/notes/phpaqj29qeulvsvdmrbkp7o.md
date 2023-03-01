@@ -1,11 +1,4 @@
----
-id: phpaqj29qeulvsvdmrbkp7o
-title: DS Notes - edited
-desc: ''
-updated: 1677632528087
-created: 1677615896190
----
-## Introduction - edited
+## Introduction
 
 In data science applications, it is very common to be interested in the relationship between two or more variables. `Linear Regression` is commonly used to quantify the relationship between two or more variables. It is also used to adjust for `confounding`. Linear regression is a powerful technique for removing confounders, and it is essential to understand when it is appropriate to use. 
 

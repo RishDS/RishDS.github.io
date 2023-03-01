@@ -1,0 +1,39 @@
+{
+  "roots": [
+    {
+      "key": "phpaqj29qeulvsvdmrbkp7o",
+      "title": "DS Notes",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": []
+    },
+    {
+      "key": "c1bs7wsjfbhb0zipaywqv1",
+      "title": "Tutorial",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "children": [
+        {
+          "key": "2nag9m7euacuefvs78i12x6",
+          "title": "One",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "phpaqj29qeulvsvdmrbkp7o": null,
+    "c1bs7wsjfbhb0zipaywqv1": null,
+    "2nag9m7euacuefvs78i12x6": "c1bs7wsjfbhb0zipaywqv1"
+  },
+  "notesLabelById": {
+    "phpaqj29qeulvsvdmrbkp7o": "DS Notes",
+    "c1bs7wsjfbhb0zipaywqv1": "Tutorial",
+    "2nag9m7euacuefvs78i12x6": "One"
+  }
+}
