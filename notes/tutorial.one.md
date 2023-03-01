@@ -2,7 +2,7 @@
 id: 2nag9m7euacuefvs78i12x6
 title: Updating to GitHub
 desc: ''
-updated: 1677634657975
+updated: 1677634955726
 created: 1677616062151
 ---
 
@@ -12,15 +12,15 @@ One major reason that `GitHub Pages` publishing with `GitHub Actions` is preferr
 
 If not using GitHub Actions, the following needs to be done whenever you'd like to publish a `new version` of your website.
 
-> rm -rf docs
-> rm -rf .next
-> rm -rf node_modules
-> rm -rf package*.json
-> npm install @dendronhq/dendron-cli@latest
-> npx dendron publish init
-> npx dendron publish export --target github
+> 1. rm -rf docs
+> 2. rm -rf .next
+> 3. rm -rf node_modules
+> 4. rm -rf package*.json
+> 5. npm install @dendronhq/dendron-cli@latest
+> 6. npx dendron publish init
+> 7. npx dendron publish export --target github
 
 **If making to existing website, run the following commands**
-> git add .
-> git commit -m "<your msg here>"
-> git push
+> 1. git add .
+> 2. git commit -m "<your msg here>"
+> 3. git push
